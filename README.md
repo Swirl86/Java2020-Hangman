@@ -4,8 +4,6 @@ I uppgift Hangman (Hänga gubbe), så skall ni skapa spelet Hangman.
 
 ## Krav
 
-- Minst en Class, varav en ska vara “private” class med själva ordet som ska gissas
-
 - Minst ha en form av menu där spelaren kan välja följande:
 
   - Game status = Visar antalet gissningar och hur många spelaren har kvar.
